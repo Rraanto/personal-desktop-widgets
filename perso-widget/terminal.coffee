@@ -30,7 +30,7 @@ render: ->"""
 """
 
 afterRender: (domEl) ->
-  $(domEl).on 'click', '#terminal', => @run "open '/System/Applications/Utilities/Terminal.app'"
+  $(domEl).on 'click', '#terminal', => @run "open '/Applications/iTerm.app'"
 
 style: """
   position: fixed

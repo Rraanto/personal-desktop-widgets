@@ -58,7 +58,7 @@ render: ->"""
 """
 
 afterRender: (domEl) ->
-  $(domEl).on 'click', '#vscode', => @run "open '/Applications/Visual Studio Code 2.app'"
+  $(domEl).on 'click', '#vscode', => @run "~/openvim"
 
 style: """
   position: fixed

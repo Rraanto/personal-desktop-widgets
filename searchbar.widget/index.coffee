@@ -50,6 +50,7 @@ style: """
   border: none;
   height: 2.0em;
   font-size: 0.9em;
+  font-family: menlo;
   background: none;
   width: 400px;
   padding-left: 1em;

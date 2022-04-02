@@ -64,6 +64,7 @@ style: """
   box-sizing: border-box
   background: transparent
 
+
   // position
   right: 0%
   bottom: 0%
@@ -76,7 +77,7 @@ style: """
   font-size: 10px
   line-height: 1.5
   background: transparent;
-  font-family: Menlo,Trebuchet MS,Arial,sans-serif;
+  font-family: "Fira Code Medium";
   font-size: .8em;
   padding: 10px
   letter-spacing: 2px

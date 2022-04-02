@@ -52,7 +52,7 @@ style: """
   font-size: 10px
   line-height: 1.5
   font-size: .75em
-  font-family: Menlo,Trebuchet MS,Arial,sans-serif;
+  font-family: "Fira Code Medium";
   padding: 10px
   letter-spacing: 2px
 
